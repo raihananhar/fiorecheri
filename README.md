@@ -1,1 +1,1 @@
-Tampilan akhir akan di berikan disini
+Tampilan gambar akhir akan di berikan disini
