@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fiore Chéri - Kasir</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img src="./assets/logo.png" alt="Fiore Chéri Logo" class="logo">
+            <h1>Fiore Chéri - Kasir</h1>
+        </header>
+
+        <!-- Daftar Menu (Grid) -->
+        <h2>Daftar Menu</h2>
+        <div id="menu-list" class="menu-grid"></div>
+
+        <!-- Keranjang Belanja -->
+        <h2>Pesanan</h2>
+        <ul id="cart" class="cart-container"></ul>
+        <h3>Total: Rp <span id="total-price">0</span></h3>
+
+        <!-- Tombol Checkout -->
+        <button class="checkout-btn" onclick="checkout()">Checkout</button>
+    </div>
+
+    <script src="renderer.js"></script>
+</body>
+</html>
