@@ -9,5 +9,6 @@ Dashboard laporan transaksi harian
 
 Tampilan gambar akhir akan di berikan disini
 <p> Progres :</p>
+<p> akan ada penambahan fitur pembayaran menggunakan Qris</p>
 
 ![Gambar 1](https://github.com/raihananhar/fiorecheri/blob/God/Screenshot%202025-02-28%20233316.png)
